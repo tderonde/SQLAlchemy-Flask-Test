@@ -1,5 +1,3 @@
-# 10-SQLAlchemy
-
 
 ## Climate Analysis and Exploration
 
