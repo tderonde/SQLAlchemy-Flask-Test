@@ -45,6 +45,7 @@ Flask API
 
   * Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range (inclusive).
 
+![image](https://user-images.githubusercontent.com/80601138/130705676-9acdacd5-5b2e-4aa2-8788-899c9feedfde.png)
 
 - - -
 
